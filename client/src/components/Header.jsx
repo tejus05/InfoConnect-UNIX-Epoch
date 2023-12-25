@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className="flex-shrink-0">
           <Link to="/" className="text-white text-3xl flex items-center italic">
             <img
-              src="../public/logo.png"
+              src="/logo.PNG"
               alt="infoconnect-logo"
               className="lg:h-[80px] h-[70px]"
             />

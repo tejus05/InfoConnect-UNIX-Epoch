@@ -6,13 +6,13 @@ import { Link } from 'react-router-dom';
 function Home() {
   return (
     <div>
-      <div className="p-6 mt-5 w-full flex flex-col justify-center px-[120px]">
+      <div className="p-6 w-full flex flex-col justify-center px-[120px]">
         <h1 className="text-2xl font-bold mb-4">
           Welcome to our streamlined e-portal service dedicated to simplifying
           government procedures for our users. Explore our comprehensive
           services in different sections:
         </h1>
-        <div className="text-[19px]">
+        <div className="text-[17px]">
           <table className="border-collapse w-full">
             <tbody>
               <tr className="border-b">
